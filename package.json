@@ -1,0 +1,11 @@
+{
+    "name": "com.mirror-networking.mirror",
+    "displayName": "Mirror Networking upm",
+    "version": "69.10.0",
+    "description": "Mirror Networking (now UPM compliant!)",
+    "unity": "2021.3",
+    "documentationUrl": "https://mirror-networking.gitbook.io/docs",
+    "author": {
+        "name": "Open source!"
+    }
+}
